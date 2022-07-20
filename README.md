@@ -13,7 +13,7 @@ Below are the steps required to get this working on a base linux system.
 Python and its dependencies
 
 ```bash
-apt-get install -y python python-setuptools python-dev build-essential python-pip python-mysqldb
+apt-get install -y python3 python3-setuptools python3-dev build-essential python3-pip python3-mysqldb
 ```
 
 ## Install and Configure Web Server
